@@ -1,1 +1,1 @@
-# Random-Color-Generator
+Unlimited Color switching after hitting START button.
